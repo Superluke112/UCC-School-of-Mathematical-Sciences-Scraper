@@ -73,10 +73,10 @@ The generated CSV files contain the following columns:
 	•	publication_title – 文章标题（仅在第二个 CSV 中）/ Publication title (in the second CSV)
 	•	publication_url – 文章详情链接（仅在第二个 CSV 中）/ Link to publication details (in the second CSV)
 
-注意：第二个脚本仅抓取每位老师的第一个分页页码中的论文。如果需要抓取所有分页，请根据页面的分页参数扩展脚本逻辑。
+注意：第二个脚本仅抓取每位老师的第一个分页页码中的论文。如果需要抓取所有分页，请根据页面的分页参数扩展脚本逻辑。     
 Note: The second script captures only the first page of publications for each teacher. If you need to collect all pages, extend the script to loop through pagination.
 
 ## 版权和许可证 / License
 
-此项目使用 MIT License，可自由修改和分发。
+此项目使用 MIT License，可自由修改和分发。    
 This project is licensed under the MIT License. You are free to modify and distribute it.
